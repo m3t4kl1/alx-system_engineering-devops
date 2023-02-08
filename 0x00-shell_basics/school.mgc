@@ -1,3 +1,5 @@
 @@ -0,0 +1,2 @@
 0 string SCHOOL School data
-!:mime School
+$ file --magic-file=school.mgc school_data_file.dat
+school_data_file.dat: School data file
+
